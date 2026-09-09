@@ -8,3 +8,5 @@ product_result = a * b
 
 print("Sum =", sum_result)
 print("Product =", product_result)
+
+It is the pythan code
